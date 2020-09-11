@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { useRouteMatch } from 'react-router';
 
 const generatePage = page => {
