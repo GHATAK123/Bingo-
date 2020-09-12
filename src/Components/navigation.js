@@ -25,7 +25,7 @@ export default function Navigation ({user}) {
 
   const [menuActive,setMenuActive] = useState(false);
   return (<nav className="site-navigation">
-    <span className="menu-title">Bingo!</span>
+    <span className="menu-title">Stinker</span>
     <div className={`menu-content-container ${menuActive && 'active'}`}>
     <ul>
     {  
